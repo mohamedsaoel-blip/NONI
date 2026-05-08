@@ -18,7 +18,7 @@ export default function App() {
     "U r not just special… U r the most perfect girl in this world",
     "I always be missing u so bad and always longing for that day I will meet u",
     "I'm sure, sooo sure, I won't be able to stop my tears when I'll finally see u in real life",
-    "When I'll finaaly get to touch u ❤️ and hold ur hands 🧑‍🤝‍🧑",
+    "When I'll finally get to touch u ❤️ and hold ur hands 🧑‍🤝‍🧑",
     "Smell u 🤤",
     "Kiss u 💏",
     "Hug u 🫂",
@@ -199,7 +199,7 @@ export default function App() {
           {step === messages.length - 1 &&
             charIndex === messages[step].length && (
               <div className="final">
-                You mean more to me than words will ever be able to say ❤️
+                You mean more to me than words will ever be able to say 7bibti ❤️
               </div>
           )}
 
